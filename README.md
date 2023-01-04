@@ -1,5 +1,5 @@
-# Dicee-Game
-This is one page site were the bigger dice of two win
+# Dice-Game
+This is one page site were the bigger dice of two win. It is used Javascript.
 Start position
 ![image](https://user-images.githubusercontent.com/114020789/210645814-851d0f58-b52c-4dc0-a0a0-13a9adff143b.png)
 
