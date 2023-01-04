@@ -17,3 +17,8 @@ else if (randomNumber1 < randomNumber2){
 } else{
     document.querySelector("h1").innerHTML = "Draw!"
 }
+
+function reset(){
+    document.querySelector("h1").innerHTML = "Refresh me";
+    document.querySelectorAll("img").setAttribute("src" , "images/dice6.png")
+}
